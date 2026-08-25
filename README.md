@@ -24,7 +24,7 @@ Researching and applying Vision-Language-Action models to control and reasoning 
 
 **Attention-based Map Encoding for Humanoid Locomotion (SNU DYROS Lab)** — Research project on humanoid parkour-style locomotion, using attention-based map encoding for terrain-aware control, built and trained in Isaac Lab.
 
-**Mobile Robots Praktikum — University of Tübingen** — Coursework/project on mobile robotics fundamentals: perception, localization, and navigation for mobile robot platforms.
+**Autonomous Mobile Robot — University of Tübingen** — Project on mobile robotics: Autonomous navigation for mobile robot.
 
 ---
 
