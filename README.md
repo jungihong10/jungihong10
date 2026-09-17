@@ -13,11 +13,11 @@ Researching and applying Vision-Language-Action models to control and reasoning 
 
 - Evaluating and adapting state-of-the-art VLA models for real humanoid hardware
 - Bridging perception → language reasoning → action for task execution in industrial/workforce settings
-- Working across multiple humanoid platforms (Dexmate, G1, H1) to compare capabilities and integration paths
+- Working across multiple humanoid platforms (Dexmate vega, G1, H1) to compare capabilities and integration paths
 
 ### Projects
 
-**Humanoid Manipulation PoC (LG CNS × industry partner)** — Deployed a Dexmate humanoid robot to autonomously carry semiconductor parts into ovens on a factory floor.
+**Humanoid Manipulation PoC (LG CNS × industry partner)** — Deployed a Dexmate humanoid vega to autonomously carry semiconductor parts into ovens on a factory floor.
 - Whole-body manipulation combined with autonomous navigation and SLAM
 
 **Physical Works — Forge & Baton (LG CNS)** — Contributed to LG CNS's robot learning and operations platform, **Physical Works**, applying its **Forge** (learning) and **Baton** (operations/orchestration) modules to real robot deployments.
@@ -38,7 +38,7 @@ Researching and applying Vision-Language-Action models to control and reasoning 
 ## Technical Interests
 
 - **VLA models** — Vision-language-action architectures for robot control and reasoning
-- **Humanoid robotics** — Dexmate, Unitree G1/H1, real-world task deployment
+- **Humanoid robotics** — Dexmate vega, Unitree G1/H1, real-world task deployment
 - **Applied AI for workforce automation** — translating research models into production solutions
 - **Robot learning** — perception-to-action pipelines, sim-to-real, task generalization
 
