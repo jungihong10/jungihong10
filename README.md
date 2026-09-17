@@ -9,7 +9,7 @@ Based in Seoul. Currently at **LG CNS**. Focused on bringing Vision-Language-Act
 ## What I'm Working On
 
 ### Robot Brain — VLA for Humanoid Deployment
-Researching and applying Vision-Language-Action models to control and reasoning stacks for humanoid platforms (Dexmate, Unitree G1, H1), with the goal of translating recent VLA advances into deployable workforce solutions — not just lab demos.
+Researching and applying Vision-Language-Action models to control and reasoning stacks for humanoid platforms (Dexmate Vega, Unitree G1, H1), with the goal of translating recent VLA advances into deployable workforce solutions — not just lab demos.
 
 - Evaluating and adapting state-of-the-art VLA models for real humanoid hardware
 - Bridging perception → language reasoning → action for task execution in industrial/workforce settings
