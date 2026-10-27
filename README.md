@@ -27,7 +27,7 @@ Developing terrain-aware locomotion for the Unitree G1 humanoid, leveraging foot
 - Implemented foothold prediction to support terrain-aware foot placement over uneven terrain and obstacles.
 - Developed and trained a G1 locomotion policy in Isaac Lab for challenging terrain traversal.
 - Investigating how terrain perception and foothold planning improve locomotion stability and adaptability.
-- Exploring forward- and rear-facing camera observations for improved terrain awareness during locomotion.
+- Exploring other methods for improved terrain awareness during locomotion.
 
 ---
 
