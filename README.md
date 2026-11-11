@@ -5,6 +5,8 @@
 Building intelligent robotic systems at the intersection of embodied AI, robot learning, and real-world deployment. Currently at **LG CNS**, working on Vision-Language-Action (VLA) models for humanoid manipulation and learning-based locomotion. Focused on translating advances in robot intelligence into reliable systems for real-world industrial environments.
 
 Based in Seoul, South Korea.
+<img width="3024" height="4032" alt="IMG_6436" src="https://github.com/user-attachments/assets/e31a548d-a1f8-42e9-864b-ab9366a39859" />
+
 
 ---
 
@@ -22,6 +24,13 @@ Developing and fine-tuning state-of-the-art Vision-Language-Action models for hu
 - Exploring multiple ways to integrate **tactile sensing from XHand** into VLA policies for contact-rich, dexterous manipulation.
 - Worked across Dexmate Vega, Unitree G1, and SO-101 platforms to develop and evaluate robot learning workflows.
 
+<img width="585" height="1266" alt="IMG_7502 2" src="https://github.com/user-attachments/assets/6446e3fc-9b7b-4487-872d-205231287158" />
+
+https://github.com/user-attachments/assets/7aae5d09-4cb3-4d2a-8c98-a22711f4b364
+
+
+
+
 ### 2. Humanoid Locomotion — Terrain-Aware Walking and Foothold Prediction
 
 Developing terrain-aware locomotion for the Unitree G1 humanoid, leveraging foothold prediction and research on perceptive locomotion from ETH Zurich.
@@ -30,6 +39,10 @@ Developing terrain-aware locomotion for the Unitree G1 humanoid, leveraging foot
 - Developed and trained a G1 locomotion policy in Isaac Lab for challenging terrain traversal.
 - Investigating how terrain perception and foothold planning improve locomotion stability and adaptability.
 - Exploring other methods for improved terrain awareness during locomotion.
+  
+
+https://github.com/user-attachments/assets/80eb2a17-58f7-4ca8-ac00-2f7398386db2
+
 
 ---
 
@@ -42,6 +55,10 @@ A simulation-first PoC pipeline using NVIDIA Isaac Lab for real-to-sim and sim-t
 - Reconstructed real-world setups in Isaac Lab to validate algorithms and VLA policies before hardware runs.
 - Generated and augmented training data with Cosmos to supplement real-robot teleoperation datasets.
 - Fine-tuned VLAs on the combined data and deployed them on real robots.
+
+
+https://github.com/user-attachments/assets/0e385e27-1933-4b01-a6f5-589e303c86cd
+
 
 ### Humanoid Manipulation PoC — LG CNS × Industry Partner
 
