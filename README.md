@@ -40,7 +40,7 @@ Developing and fine-tuning state-of-the-art Vision-Language-Action models for hu
 
 <img src="https://github.com/user-attachments/assets/6446e3fc-9b7b-4487-872d-205231287158" width="320" />
 
-<video src="https://github.com/user-attachments/assets/7aae5d09-4cb3-4d2a-8c98-a22711f4b364" width="320" controls muted></video>
+<img src="https://github.com/user-attachments/assets/b14c4723-b2da-4f3e-a2ed-f25d68d0f901" width="320" alt="vla" />
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ Developing terrain-aware locomotion for the Unitree G1 humanoid, leveraging foot
 </td>
 <td width="320" valign="top">
 
-<video src="https://github.com/user-attachments/assets/80eb2a17-58f7-4ca8-ac00-2f7398386db2" width="320" controls muted></video>
+<img src="https://github.com/user-attachments/assets/71de7bc7-4955-4cd5-912e-6fb56693f5a9" width="320" alt="foothold" />
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ A simulation-first PoC pipeline using NVIDIA Isaac Lab for real-to-sim and sim-t
 </td>
 <td width="320" valign="top">
 
-<video src="https://github.com/user-attachments/assets/0e385e27-1933-4b01-a6f5-589e303c86cd" width="320" controls muted></video>
+<img src="https://github.com/user-attachments/assets/f790bbd0-4b69-4243-9224-837d896e3543" width="320" alt="demo" />
 
 </td>
 </tr>
