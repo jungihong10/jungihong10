@@ -18,6 +18,8 @@ Developing and fine-tuning state-of-the-art Vision-Language-Action models for hu
 - Fine-tuned VLA models achieving **90%+ task success rates** on challenging manipulation tasks, including grasping objects with diverse shapes and geometries using **XHand grippers**.
 - Built dataset curation workflows covering data collection, filtering, quality assessment, and formatting for robot learning.
 - Evaluated fine-tuning strategies, including LoRA, full fine-tuning, and data-mixing approaches.
+- Developed a **force/torque-aware VLA** that takes end-effector F/T sensor readings on the Dexmate Vega as token inputs, giving the policy direct access to contact and interaction forces. It outperformed baseline VLAs, including **π0.5** and **GR00T**, on contact-rich manipulation tasks.
+- Exploring multiple ways to integrate **tactile sensing from XHand** into VLA policies for contact-rich, dexterous manipulation.
 - Worked across Dexmate Vega, Unitree G1, and SO-101 platforms to develop and evaluate robot learning workflows.
 
 ### 2. Humanoid Locomotion — Terrain-Aware Walking and Foothold Prediction
@@ -32,6 +34,14 @@ Developing terrain-aware locomotion for the Unitree G1 humanoid, leveraging foot
 ---
 
 ## Selected Projects
+
+### Isaac Lab + Cosmos Sim-to-Real VLA Pipeline
+
+A simulation-first PoC pipeline using NVIDIA Isaac Lab for real-to-sim and sim-to-real workflows and NVIDIA Cosmos for synthetic data generation, used to test and fine-tune VLAs in simulation before deploying them on real robots.
+
+- Reconstructed real-world setups in Isaac Lab to validate algorithms and VLA policies before hardware runs.
+- Generated and augmented training data with Cosmos to supplement real-robot teleoperation datasets.
+- Fine-tuned VLAs on the combined data and deployed them on real robots.
 
 ### Humanoid Manipulation PoC — LG CNS × Industry Partner
 
@@ -72,6 +82,10 @@ Developed an autonomous navigation stack for a TurtleBot-based mobile robot as p
 - Implemented A* global path planning with costmap-based obstacle inflation.
 - Developed local obstacle avoidance and velocity control using potential fields and PID.
 - Integrated LiDAR-based navigation and visualization using ROS 2 and RViz2.
+
+### Multi-type Robot Dynamic Factory — LG CNS PhysicalWorks
+
+Contributed to a public PoC in which humanoid, quadruped, and wheeled robots autonomously performed factory tasks using a trained robot foundation model, with 100% autonomous task judgment and no teleoperation. Presented at LG CNS RX Media Day (May 2026).
 
 ---
 
