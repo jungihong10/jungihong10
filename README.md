@@ -13,7 +13,7 @@ Based in Seoul, South Korea.
 </td>
 <td width="320" valign="top">
 
-<img src="https://github.com/user-attachments/assets/e31a548d-a1f8-42e9-864b-ab9366a39859" width="320" />
+<img src="https://github.com/user-attachments/assets/baa5dd44-810f-4af4-9d97-13b9b0ca017e" width="320" />
 
 </td>
 </tr>
